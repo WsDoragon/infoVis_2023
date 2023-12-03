@@ -1,0 +1,7 @@
+# FILEPATH: /C:/Users/berna/Escritorio/Universidad/2023/2do semestre/tarea_infovis/.gitignore
+
+# Ignore everything in the "Muestra" directory
+/Muestra/*
+
+# Except for the ".gitkeep" file
+!/Muestra/.gitkeep
